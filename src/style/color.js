@@ -1,0 +1,5 @@
+export default {
+WIZARDGREY: "#535c68",
+DEEPCOVE: "#130f40",
+DEEPKOAMARU: "#30336b"
+}
